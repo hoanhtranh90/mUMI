@@ -1,0 +1,29 @@
+{
+  "tkTaskAssign.delete.taskStatusMissMath": "Trạng thái công việc không hợp lệ",
+  "tkTaskAssign.create.taskStatusMissMath": "Trạng thái công việc không hợp lệ",
+
+  "tkTask.create.receiverMissMatch": "Người thực hiện phải nằm trong nhóm phối hợp",
+  "tkTask.create.parentTaskStatusMissMatch": "Trạng thái công việc cha không hợp lệ",
+  "tkTaskDocRelation.create.taskStatusMissMatch": "Trạng thái công việc không hợp lệ",
+  "tkTaskDocRelation.delete.taskStatusMissMatch": "Trạng thái công việc không hợp lệ",
+
+  "incomingDoc.create.flowMissMatch": "Luồng phải là quy trình đến theo đơn vị của user đăng nhập",
+
+  "vbIncomingDoc.ketThuc.docStatusMissMatch": "Trạng thái văn bản không hợp lệ",
+  "vbIncomingDoc.ketThuc.flowInstanceStatusMissMatch": "Trạng thái luồng không hợp lệ",
+  "vbIncomingDoc.ketThuc.processStatusMissMatch": "Trạng thái luồng không hợp lệ",
+  "vbIncomingDoc.ketThuc.receiverMissMatch": "Bạn không có quyền kết thúc",
+
+  "vbIncomingProcess.chuyenXuLi.docStatusMissMatch": "Trạng thái văn bản không hợp lệ",
+  "vbOutgoingProcess.chuyenXuLi.docStatusMissMatch": "Trạng thái văn bản không hợp lệ",
+
+  "vbIncomingProcess.thuHoi.nextVbIncomingProcessStatusMissMatch": "Không thể thu hồi do %(name)s đã chuyển xử lý văn bản này",
+  "vbOutgoingDoc.thuHoi.canNotThuHoi": "Văn bản sẽ không được thu hồi nếu đã được chuyển xử lý cho người khác",
+  "vbOutgoingDoc.thuHoi.statusNotMatch": " Văn bản không thể thu hồi nếu đang trong trạng thái đang xử lý",
+  "vbOutgoingDoc.thuHoi.ownerNotMatch": "Văn bản này chỉ được thu hồi bời người soạn thảo",
+
+  "vbOutgoingDocProcess.thuHoi.ownerNotMatch": "Chỉ người chuyển xử lý mới có thể thu hồi",
+  "vbOutgoingDocProcess.thuHoi.statusNotMatch": "Step phải ở trạng thái đã xử lý",
+  "vbOutgoingDocProcess.thuHoi.canNotThuHoi": "Văn bản sẽ không được thu hồi nếu đã được chuyển tiếp cho người khác hoặc đã được ban hành"
+
+}

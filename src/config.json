@@ -1,0 +1,24 @@
+{
+  "baseUrl": "https://office.adfilex.vn/business-service/",
+  "sso": {
+    "url": "http://192.168.1.223:8080/sso",
+    "clientId": "VPDT_STAGING",
+    "clientPass": "vpdt@16)$"
+  },
+  "version": {
+    "ios": 2020120100,
+    "android": 2020120100
+  }
+}
+// {
+//   "baseUrl": "https://eoffice.mobifone.vn/BusinessService/",
+//   "sso": {
+//     "url": "https://eoffice.mobifone.vn/sso",
+//     "clientId": "WEB-EOFFICE-PRODUCTION",
+//     "clientPass": "gZnlUWbOK0bTGAnsXNrpXanHzyUK6i1j"
+//   },
+//   "version": {
+//     "ios": 2020120100,
+//     "android": 2020120100
+//   }
+// }

@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "431059469065",
+    "project_id": "umimobile-66dcc",
+    "storage_bucket": "umimobile-66dcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431059469065:android:8c86813a8b0be9594f09d8",
+        "android_client_info": {
+          "package_name": "com.mumi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431059469065-6rivc3is3ji6hna38bei7spc75e7une0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSAKO5DAj5EZsEGzl_UuZgdPbEyCNv2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431059469065-6rivc3is3ji6hna38bei7spc75e7une0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431059469065-rl27fp965ob2t8c72fhfjgovle7gutp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aipi.appUmi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431059469065:android:2219292acc1be6414f09d8",
+        "android_client_info": {
+          "package_name": "com.mumi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431059469065-6rivc3is3ji6hna38bei7spc75e7une0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSAKO5DAj5EZsEGzl_UuZgdPbEyCNv2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431059469065-6rivc3is3ji6hna38bei7spc75e7une0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431059469065-rl27fp965ob2t8c72fhfjgovle7gutp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aipi.appUmi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431059469065:android:936f48572a5a0f314f09d8",
+        "android_client_info": {
+          "package_name": "vn.mobifone.eoffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431059469065-6rivc3is3ji6hna38bei7spc75e7une0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvSAKO5DAj5EZsEGzl_UuZgdPbEyCNv2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431059469065-6rivc3is3ji6hna38bei7spc75e7une0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "431059469065-rl27fp965ob2t8c72fhfjgovle7gutp2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.aipi.appUmi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
